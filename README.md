@@ -6,5 +6,6 @@ This module can provide 3V~6V adjustable voltage output under a wide voltage inp
 - **Size:** 35mm * 35mm * 25mm
 - **Input Voltage:** 4.5V ~ 18V
 -  **Output Current:** 10A MAX
+-  **Output Voltage:** 3 ~ 6V Adj
 -  **Efficiency:** 96% MAX
 ## For more details, please view the corresponding data sheet!
